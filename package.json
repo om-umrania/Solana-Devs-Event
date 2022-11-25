@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@solana/web3.js": "^1.66.2",
     "cowsay": "^1.5.0"
   }
 }
